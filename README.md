@@ -5,6 +5,9 @@
 
 Структура
 ├── backend/     # Node.js + Express API
+
 ├── frontend/    # Vue.js интерфейс
+
 ├── README.md    # Этот файл
+
 └── furniture_company_db.sql   # база данных
