@@ -4,6 +4,7 @@
 3. Запустить фронтенд через Live Server 
 
 Структура
+
 ├── backend/     # Node.js + Express API
 
 ├── frontend/    # Vue.js интерфейс
